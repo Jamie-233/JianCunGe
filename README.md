@@ -8,7 +8,6 @@
 **Skills:**
 
 <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/javascript.svg"></code>
-<code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/nodedotjs.svg"></code>
 <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/python.svg"></code>
 <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/go.svg"></code>
 <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/rust.svg"></code>
